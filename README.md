@@ -4,6 +4,10 @@
 
 setx PATH "%PATH%;C:\Path\To\nmap"
 
+python get-pip.py
+python get-pip.py
+
+
 
 pip install impacket
 
